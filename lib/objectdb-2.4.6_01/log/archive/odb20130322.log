@@ -1,0 +1,86 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-03-22 17:48:40 #1 store] 
+Database 'C:\Users\Andy\Desktop\twitter\.test.odb' is opened by 4968@Andy-PC
+
+[2013-03-22 17:48:40 #2 type] 
+Type Tweet is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-03-22 17:49:22 #1 store] 
+Database 'C:\Users\Andy\Desktop\twitter\.test.odb' has been recovered (tr. 1-4)
+
+[2013-03-22 17:49:22 #2 store] 
+Database 'C:\Users\Andy\Desktop\twitter\.test.odb' is opened by 4848@Andy-PC
+
+[2013-03-22 17:49:53 #3 store] 
+Database 'C:\Users\Andy\Desktop\twitter\.test.odb' is closed by 4848@Andy-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-03-22 18:06:38 #1 store] 
+Database 'C:\Users\Andy\Desktop\twitter\.test.odb' is opened by 1816@Andy-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-03-22 18:08:25 #1 store] 
+Database 'C:\Users\Andy\Desktop\twitter\.test.odb' is opened by 2548@Andy-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-03-22 18:13:12 #1 store] 
+Database 'C:\Users\Andy\Desktop\twitter\.test.odb' is opened by 4448@Andy-PC
+
+[2013-03-22 18:14:20 #2 type] 
+Type TweetObjDB is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-03-22 18:15:15 #1 store] 
+Database 'C:\Users\Andy\Desktop\twitter\.test.odb' has been recovered (tr. 5-6)
+
+[2013-03-22 18:15:15 #2 store] 
+Database 'C:\Users\Andy\Desktop\twitter\.test.odb' is opened by 5072@Andy-PC
+
+[2013-03-22 18:15:15 #3 type] 
+Type TweetObjDB is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-03-22 18:18:22 #1 store] 
+Database 'C:\Users\Andy\Desktop\twitter\.test.odb' is opened by 1972@Andy-PC
+
+[2013-03-22 18:18:22 #2 type] 
+Type TweetObjDB is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-03-22 18:20:03 #1 store] 
+Database 'C:\Users\Andy\Desktop\twitter\.test.odb' has been recovered (tr. 7-7)
+
+[2013-03-22 18:20:03 #2 store] 
+Database 'C:\Users\Andy\Desktop\twitter\.test.odb' is opened by 2448@Andy-PC
+
+[2013-03-22 18:21:09 #3 store] 
+Database 'C:\Users\Andy\Desktop\twitter\.test.odb' is closed by 2448@Andy-PC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-03-22 18:23:13 #1 store] 
+Database 'C:\Users\Andy\Desktop\twitter\.test.odb' is opened by 1092@Andy-PC
+
+[2013-03-22 18:23:13 #2 type] 
+Type TweetObjDB is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2013-03-22 18:25:53 #1 store] 
+Database 'C:\Users\Andy\Desktop\twitter\.test.odb' has been recovered (tr. 8-8)
+
+[2013-03-22 18:25:53 #2 store] 
+Database 'C:\Users\Andy\Desktop\twitter\.test.odb' is opened by 2776@Andy-PC
+
+[2013-03-22 18:26:36 #3 store] 
+Database 'C:\Users\Andy\Desktop\twitter\.test.odb' is closed by 2776@Andy-PC
+
